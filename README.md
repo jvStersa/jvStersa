@@ -3,11 +3,13 @@
 ---
 
 ### 👨‍💻 Sobre Mim
-Tenho 18 anos, moro em **Londrina, PR** e sou apaixonado por resolver problemas através da tecnologia. Atualmente, estou focado em construir uma base sólida em Ciência da Computação.
+Tenho 18 anos, Sou apaixonado por resolver problemas através da tecnologia. Atualmente, estou focado em construir uma base sólida em Lógica.
 
 * 🎓 Cursando: **Ciência da Computação**
-* 📍 Localização: **Londrina, Paraná - Brasil** 🇧🇷
+* 🎓 Instituto: **Unifil**
+* 📍 Localização: **Londrina, Paraná - Brasil**
 * ✉️ Contato: [jvribeirostersa@gmail.com](mailto:jvribeirostersa@gmail.com)
+
 
 ---
 
