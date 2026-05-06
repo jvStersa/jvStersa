@@ -1,4 +1,4 @@
-# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil!;Eu+sou+o+Jo%C3%A3o+Vitor;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /> </p>
+# <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=32&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Ol%C3%A1!+Bem-vindo+ao+meu+perfil!;Eu+sou+o+Jo%C3%A3o+Vitor;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o" alt="Typing SVG" /> </p>
 
 ---
 
