@@ -21,15 +21,6 @@ Atualmente, estou dedicando meus estudos e projetos principalmente nestas lingua
 </p>
 
 ---
-### 📈 Estatísticas
-
-<p align="left">
-  <a href="https://github.com/SEU_USUARIO?tab=repositories">
-    <img src="https://img.shields.io/badge/Meus_Projetos-Acessar_Repositórios-blue?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
 
 ### 🤝 Conecte-se Comigo
 <p align="left">
